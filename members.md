@@ -98,7 +98,7 @@ Format:
 | Cindy Berghuizen | [CindyBerghuizen](https://github.com/CindyBerghuizen)|Student doing research on Open Source Software. Beginner in java, C#, haskell. Looking for new ways of learning to program.|
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Coburn Berry  | [nutrigrainapple] (https://github.com/nutrigrainapple) | Intermediate Python, studying Android, goal to be C# programmer. B.S. Mathematics | |
-| Cody Mu | | [Situpc](https://github.com/Situpc) | Learning python. Want to learn everything!|
+| Cody Mu |[Situpc](https://github.com/Situpc) | Learning python. Want to learn everything!|
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
