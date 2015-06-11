@@ -40,7 +40,6 @@ repositories, and checking on IRC
 Format:
 ```| <Your Name> | [<GitHub Username>](https://github.com/<GitHub Username>) | <Note Here> |```
 
-
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
@@ -93,12 +92,13 @@ Format:
 | Chance Rosenthal | [TheChance](https://github.com/TheChance) | I'm an undergrad working on an associates to transfer. C++, interested in Ruby. |
 | Charlie Andrews | [sir-charles804](https://github.com/sir-charles804) | I am a university student. Have experience in Python, Javascript, and C# |
 | Chathuranga de Silva | [chatz05](https://github.com/chatz05) | Graduate student. Objective-C , Java background. Interested in learn git and github |
-| Christopher Mason | [kyzen](https://github.com/kyzen) | C background, interested in branching out to higher level languages especially C++ and Python |
+| Christopher Mason | [kyzen](https://github.com/kyzen) | C background, interested in branching out to higher level languages especially C++ and Python ||
 | Chris Wang | [argothian](https://github.com/argothian) | Have been job hunting for a while, know C++, Java, looking for projects to play around with |
 | Chris Webb | [Chris112](https://github.com/Chris112) ||
 | Cindy Berghuizen | [CindyBerghuizen](https://github.com/CindyBerghuizen)|Student doing research on Open Source Software. Beginner in java, C#, haskell. Looking for new ways of learning to program.|
 | Clayton Walker | [creakywall](https://github.com/creakywall) ||
 | Coburn Berry  | [nutrigrainapple] (https://github.com/nutrigrainapple) | Intermediate Python, studying Android, goal to be C# programmer. B.S. Mathematics | |
+| Cody Mu | | [Situpc](https://github.com/Situpc) | Learning python. Want to learn everything!|
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
